@@ -1,0 +1,1 @@
+This app allows you to import iCalender files to your calender without using google synchronization services.
